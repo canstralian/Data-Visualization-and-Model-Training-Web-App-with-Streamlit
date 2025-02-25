@@ -5,3 +5,7 @@ matplotlib
 seaborn
 plotly
 scikit-learn
+pytest
+flake8
+mypy
+black
